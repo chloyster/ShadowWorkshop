@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="shadowBase"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shadowBase">
+				<Option output="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/shadowBase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext"/>
+					<Add directory="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/glad/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 shadowBase"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shadowBase/fast">
+				<Option output="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/shadowBase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext"/>
+					<Add directory="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/glad/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 shadowBase/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/glad/include/KHR/khrplatform.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/glad/include/glad/glad.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/glad/src/glad.c">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/tiny_obj_loader/tiny_obj_loader.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/ext/tiny_obj_loader/tiny_obj_loader.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/depth_frag.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/depth_fragDebug.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/depth_vert.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/depth_vertDebug.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/pass_texfrag.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/pass_vert.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/shadow_frag.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/resources/shadow_vert.glsl">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/GLSL.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/GLSL.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/MatrixStack.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/MatrixStack.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/Program.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/Program.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/Shape.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/Shape.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/Texture.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/Texture.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/WindowManager.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/WindowManager.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/main.cpp">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/stb_image.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/stb_image_write.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/src/tiny_obj_loader.h">
+			<Option target="shadowBase"/>
+		</Unit>
+		<Unit filename="/home/chris/Documents/CalPoly/CSC-476/ShadowWorkshop/ShadowWorkshop/2019ShadowBase/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
